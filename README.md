@@ -28,5 +28,5 @@ Please note that current version is loaded on localhost, editions are required t
 
 ## License
 
-[MIT License]
+[MIT License](..\LICENSE)
 
