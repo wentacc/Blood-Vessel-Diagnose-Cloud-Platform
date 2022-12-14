@@ -28,5 +28,5 @@ Please note that current version is loaded on localhost, editions are required t
 
 ## License
 
-[MIT Licence][Blood-Vessel-Diagnose-Cloud-Platform/LICENSE at main · kasating/Blood-Vessel-Diagnose-Cloud-Platform (github.com)]
+[MIT License]
 
