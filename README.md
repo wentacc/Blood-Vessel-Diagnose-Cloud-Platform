@@ -25,3 +25,8 @@ Please note that current version is loaded on localhost, editions are required t
 ## Traing results
 
 ![0bfb4e7e97ae3bcd225ab67467febb4](https://user-images.githubusercontent.com/113314216/189703353-1f1ce2d1-0239-4749-9603-1488dd8f23bf.png)
+
+## License
+
+[MIT Licence]: D:\Github\Blood-Vessel-Diagnose-Cloud-Platform\Blood-Vessel-Diagnose-Cloud-Platform\LICENSE
+
